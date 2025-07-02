@@ -40,7 +40,7 @@ VITE_FIREBASE_MESSAGING_SENDER_ID=il-tuo-sender-id
 VITE_FIREBASE_APP_ID=la-tua-app-id
 ```
 
-###5. Avvia il progetto in locale
+### 5. Avvia il progetto in locale
 ```bash
 npm run dev
 ```
